@@ -1,1 +1,1 @@
-Klik aquacheck.html untuk mulai
+Klik AquaCheck.html untuk mulai
